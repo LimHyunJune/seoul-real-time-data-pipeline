@@ -1,5 +1,5 @@
 # Seoul Real-Time Data Pipeline
-Implementation of various analysis and detection applications using real-time data in Seoul
+Implementation of various analysis and detection applications using real-time data in Seoul   
 API : https://data.seoul.go.kr/dataList/OA-21778/F/1/datasetView.do
 
 # Architecture
